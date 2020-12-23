@@ -1,0 +1,38 @@
+<View style= {{padding: 50}}>
+      <Text>Recognized Health Organizations</Text>
+      <Text></Text>
+      <View>
+
+        <Text>MInistry of Health</Text>
+              <View  style = {{flexDirection: 'row', justifyContent: 'space-around', paddingBottom: 20}}>
+              <Button title = "Follow on FB"/>
+              <Button title = "Web"/>
+              </View>
+        <Text>CDC</Text>
+              <View  style = {{flexDirection: 'row', justifyContent: 'space-around', paddingBottom: 20}}>
+              <Button title = "Follow on FB"/>
+              <Button title = "Web"/>
+              </View>
+        <Text>UNICEF</Text>
+              <View  style = {{flexDirection: 'row', justifyContent: 'space-around', paddingBottom: 20}}>
+              <Button title = "Follow on FB"/>
+              <Button title = "Web"/>
+              </View>
+        <Text>WHO</Text>
+              <View  style = {{flexDirection: 'row', justifyContent: 'space-around', paddingBottom: 20}}>
+              <Button title = "Follow on FB"/>
+              <Button title = "Web"/>
+              </View>
+      </View>
+
+      <View style ={{flexDirection: 'row', justifyContent: "space-around", paddingTop: 40}}>
+            <Button title = "Game and Quiz"/>
+            <Button title = "Donate"/>
+      </View>
+      <View style ={{flexDirection: 'row', justifyContent: "space-around", paddingTop: 40}}>
+            <Button title = "note"/>
+            <Button title = "about"/>
+            <Button title = "term"/>
+            <Button title = "privacy"/>
+      </View>
+    </View>

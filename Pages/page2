@@ -1,0 +1,29 @@
+<View style = {{padding: 50}}>
+    <Text>Covid-19</Text>
+    <Text>Symptombs</Text>
+    <Text></Text>
+
+    <View style ={{flexDirection: 'row', justifyContent: 'space-around', paddingBottom: 40}}>
+      
+      <View>
+        <Button title = "Cough"></Button>
+      </View>
+
+      <View>
+        <Button title = "Fever"></Button>
+      </View>
+
+    </View>
+
+   <View style ={{flexDirection: 'row', justifyContent: 'space-around'}}>
+      
+   <View>
+    <Button title = "Tiredness"></Button>
+   </View>
+
+   <View>
+    <Button title = "Sore Throat"></Button>
+   </View>
+
+ </View>
+  </View>
